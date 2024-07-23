@@ -1,0 +1,57 @@
+.formulario{
+    display: flexbox;
+    flex-wrap: nowrap;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 6px;
+    
+}
+
+.forma, .respuesta{
+    border: 1px solid #000;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.forma{
+    padding: 30px;
+}
+.respuesta{
+    font-size: 120%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.forma{
+    padding: 30px;
+}
+.colorb{
+    background-color: rgb(255, 2, 120);
+    border-radius: 5px;
+    border: 0px;
+}
+img{
+    height: 180px;
+    margin-left: 20%;
+    margin-top: 50px;
+
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: rgb(245, 121, 173);
+}
+.valid-feedback{
+    color: beige;
+}
